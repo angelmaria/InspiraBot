@@ -143,4 +143,16 @@ This tool is an AI assistant. Always review and validate generated content.
 - OpenAI
 - Stable Diffusion
 - Streamlit
+
+## 🖥️ Comming soon
+InspiraBot doesn't stop: stay tuned for updates in the GitHub repository! The planned improvements include:
+
+- Advanced agent integration
+- Framework customization with Django: combining the best of backend programming in Python with an attractive, responsive, and user-friendly web front-end.
+- Graph-based RAG implementations (Graph RAG)
+- Addition of guardrails to prevent hallucinations and ensure the quality of generated content.
+
+## 📚 Check out my article on Medium
+[InspiraBot: How AI is Transforming Digital Content Creation](https://medium.com/@angelmaria75/inspirabot-c%C3%B3mo-la-ia-est%C3%A1-transformando-la-generaci%C3%B3n-de-contenido-digital-0e55f69062f7)
+
 ```
