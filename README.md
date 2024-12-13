@@ -1,6 +1,6 @@
 ![alt text](image-2.png)
 # InspiraBot
-Cómo la IA está Transformando la Generación de Contenido Digital
+How AI is Transforming Digital Content Creation
 # AI Content Generator 🚀
 ![alt text](image.png)
 
