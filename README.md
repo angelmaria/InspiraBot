@@ -1,4 +1,4 @@
-![alt text](image-1.png)
+![alt text](image-2.png)
 # InspiraBot
 Cómo la IA está Transformando la Generación de Contenido Digital
 # AI Content Generator 🚀
